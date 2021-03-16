@@ -7,14 +7,18 @@ Hastebin adalah layanan sumber terbuka untuk saling berbagi kode ataupun tautan 
 ## Installation Step
 
 1. Lakukan clone project haste-server dari official repository
-'''git clone https://github.com/seejohnrun/haste-server.git'''
+'''git clone https://github.com/seejohnrun/haste-server.git
+'''
 2. Selanjutnya, masuk ke dalam folder haste-server untuk menginstall npm
 '''cd haste-server
-sudo apt-get install npm'''
+sudo apt-get install npm
+'''
 3. Lakukan instalasi Hastebin dari installer di folder haste-server
-'''npm install'''
+'''npm install
+'''
 4. Run aplikasi Hastebin
-'''npm start'''
+'''npm start
+'''
 5. Berikut adalah link untuk mengakses Hastebin [http://localhost:7777](http://localhost:7777)
 
 
