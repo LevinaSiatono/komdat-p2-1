@@ -3,18 +3,7 @@
 Hastebin adalah layanan sumber terbuka untuk saling berbagi kode ataupun tautan sumber secara gratis. Tampilan antarmuka yang clean dan cukup bagus dipandang menjadi nilai tambah yang luar biasa, apalagi situs ini tidak memiliki iklan sekalipun. Hastebin juga menjaga apa yang kamu bagikan, sebab apa yang kamu salin tidak di crawl oleh mesin pencari manapun.
 
 
-cara instal:
-1. clone projek haste-server dari repository asli
-$ sudo apt install git-all
-$ git clone https://github.com/seejohnrun/haste-server.git
 
-panggil lagi fungsi tadi 
-$ git clone https://github.com/seejohnrun/haste-server.git
-
-2. Masuk ke directory haste-server, kemudian install npm
-
-4. install hastebin yang telah ada di folder
-5. 
 
 ctrl+n untuk menambahkan tulisan baru
 ![WhatsApp Image 2021-03-16 at 8 06 04 PM (1)](https://user-images.githubusercontent.com/60083928/111336813-22b75500-86a8-11eb-9b23-e583094827c1.jpeg)
