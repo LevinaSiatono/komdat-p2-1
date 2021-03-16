@@ -12,14 +12,21 @@ panggil lagi fungsi tadi
 $ git clone https://github.com/seejohnrun/haste-server.git
 
 2. Masuk ke directory haste-server, kemudian install npm
+$ cd haste-server
+$ sudo apt-get install npm
 
-4. install hastebin yang telah ada di folder
-5. Run Hastebin
-6. akses haste-bin pada browser anda dilink berikut :
-7. 
+3. install hastebin yang telah ada di folder
+$ npm install
 
+4. Run Hastebin
+$ npm start
+
+5. akses haste-bin pada browser linux anda dilink berikut : http://localhost:7777
+ 
+
+cara pemakaian
 ctrl+n untuk menambahkan tulisan baru
-\n
+
 ![WhatsApp Image 2021-03-16 at 8 06 04 PM (1)](https://user-images.githubusercontent.com/60083928/111336813-22b75500-86a8-11eb-9b23-e583094827c1.jpeg)
 
 
