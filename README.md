@@ -62,5 +62,6 @@ npm start
 - Link URL yang kita buat hanya dapat bertahan selama 30 hari setelah terakhir kali dibuka
 - Kita tidak dapat melakukan modifikasi pada link yang ada
 
-
-
+## Referensi
+1. [https://github.com/seejohnrun/haste-server/wiki](https://github.com/seejohnrun/haste-server/wiki)
+2. [https://github.com/lordelph/pastebin](https://github.com/lordelph/pastebin)
