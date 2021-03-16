@@ -31,11 +31,10 @@ npm start
 3. Untuk menyimpan, klik save icon pada bagian kanan atas (dapat juga menggunakan shortcut ctrl+s)
 4. Link yang ada dapat kita bagikan dengan mengklik Twitter account (dapat juga menyalin manual)
 5. Jika kita melakukan edit terhadap text, link baru akan secara otomatis tergenerate
-6. Fitur pada aplikasi:
-- Untuk menambahkan text baru kita dapat menggunakan ctrl+n atau klik icon berikut:
-```
+
+## Fitur pada aplikasi:
+### Untuk menambahkan text baru kita dapat menggunakan ctrl+n atau klik icon berikut:
 ![WhatsApp Image 2021-03-16 at 8 06 04 PM (1)](https://user-images.githubusercontent.com/60083928/111336813-22b75500-86a8-11eb-9b23-e583094827c1.jpeg)
-```
 
 
 ## Pembahasan
