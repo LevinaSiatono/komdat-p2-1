@@ -25,6 +25,25 @@ npm start
 ```
 5. Berikut adalah link untuk mengakses Hastebin [http://localhost:7777](http://localhost:7777)
 
+## Cara Menggunakan
+1. Akses link [http://localhost:7777](http://localhost:7777)
+2. Input text yang kita inginkan
+3. Untuk menyimpan, klik save icon pada bagian kanan atas (dapat juga menggunakan shortcut ctrl+s)
+4. Link yang ada dapat kita bagikan dengan mengklik Twitter account (dapat juga menyalin manual)
+5. Jika kita melakukan edit terhadap text, link baru akan secara otomatis tergenerate
+
+## Pembahasan
+
+### Keunggulan Aplikasi
+- Nyaman digunakan karena tampilannya yang cukup simple sehingga tidak membingungkan pengguna
+- Dapat melakukan share link melalui Twitter
+- Dapat mendeteksi bahasa pemrograman pada teks yang berupa source code
+- Jenis bahasa pemrograman yang digunakan akan ditulis pada link URL (contoh: jika text mengandung SQL, maka URL akan menjadi [https://hastebin.com/komdat.sql](https://hastebin.com/komdat.sql)
+
+### Kekurangan Aplikasi
+- Text yang ada dapat diedit atau didelete oleh siapapun, membuat privasi kita tidak terjaga
+- Link URL yang kita buat hanya dapat bertahan selama 30 hari setelah terakhir kali dibuka
+- Kita tidak dapat melakukan modifikasi pada link yang ada
 
 
 ctrl+n untuk menambahkan tulisan baru
