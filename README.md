@@ -36,7 +36,17 @@ npm start
 ##### Untuk menambahkan text baru kita dapat menggunakan ctrl+n atau klik icon berikut:
 ![WhatsApp Image 2021-03-16 at 8 06 04 PM (1)](https://user-images.githubusercontent.com/60083928/111336813-22b75500-86a8-11eb-9b23-e583094827c1.jpeg)
 
+##### Untuk menduplikasi atau mengedit text, dapat menggunakan ctrl+d atau klik icon berikut:
+![WhatsApp Image 2021-03-16 at 8 06 04 PM (2)](https://user-images.githubusercontent.com/60083928/111336818-23e88200-86a8-11eb-9239-1b845af1d3f2.jpeg)
 
+##### Untuk menambahkan tulisan saja, dapat menggunakan ctrl+shift+r atau klik icon berikut:
+![WhatsApp Image 2021-03-16 at 8 06 04 PM (3)](https://user-images.githubusercontent.com/60083928/111336821-24811880-86a8-11eb-8aa7-ae048f6b1efa.jpeg)
+
+##### Untuk melakukan share melalui Twitter, dapat menggunakan ctrl+shift+t atau klik icon berikut:
+![WhatsApp Image 2021-03-16 at 8 06 04 PM (4)](https://user-images.githubusercontent.com/60083928/111336825-2519af00-86a8-11eb-8f05-41cd1da4fd3d.jpeg)
+
+##### Untuk menyimpan text yang sudah dibuat, dapat menggunakan ctrl+s atau klik icon berikut:
+![WhatsApp Image 2021-03-16 at 8 06 04 PM](https://user-images.githubusercontent.com/60083928/111336826-25b24580-86a8-11eb-915c-67e324b4adcd.jpeg)
 
 
 ## Pembahasan
@@ -53,14 +63,4 @@ npm start
 - Kita tidak dapat melakukan modifikasi pada link yang ada
 
 
-ctrl+n untuk menambahkan tulisan baru
-![WhatsApp Image 2021-03-16 at 8 06 04 PM (1)](https://user-images.githubusercontent.com/60083928/111336813-22b75500-86a8-11eb-9b23-e583094827c1.jpeg)
-
-![WhatsApp Image 2021-03-16 at 8 06 04 PM (2)](https://user-images.githubusercontent.com/60083928/111336818-23e88200-86a8-11eb-9239-1b845af1d3f2.jpeg)
-
-![WhatsApp Image 2021-03-16 at 8 06 04 PM (3)](https://user-images.githubusercontent.com/60083928/111336821-24811880-86a8-11eb-8aa7-ae048f6b1efa.jpeg)
-
-![WhatsApp Image 2021-03-16 at 8 06 04 PM (4)](https://user-images.githubusercontent.com/60083928/111336825-2519af00-86a8-11eb-8f05-41cd1da4fd3d.jpeg)
-
-![WhatsApp Image 2021-03-16 at 8 06 04 PM](https://user-images.githubusercontent.com/60083928/111336826-25b24580-86a8-11eb-915c-67e324b4adcd.jpeg)
 
