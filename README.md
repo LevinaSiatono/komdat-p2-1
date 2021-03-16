@@ -25,6 +25,8 @@ $ npm start
  
 
 cara pemakaian
+
+
 ctrl+n untuk menambahkan tulisan baru
 
 ![WhatsApp Image 2021-03-16 at 8 06 04 PM (1)](https://user-images.githubusercontent.com/60083928/111336813-22b75500-86a8-11eb-9b23-e583094827c1.jpeg)
